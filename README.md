@@ -12,3 +12,7 @@ Once you've comlpeted the form the most compatible frienfd will display as a mod
 * body-parser
 
 ## Link
+
+## Future features
+* modal shows user and freind with graphic
+* page reloads after match modal is closed
