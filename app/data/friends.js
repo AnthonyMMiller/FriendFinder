@@ -18,7 +18,7 @@ var friends = [
     },
     {
       name: "Goku",
-      photo: "https://en.wikipedia.org/wiki/Elon_Musk#/media/File:Elon_Musk_2015.jpg",
+      photo: "https://www.geek.com/wp-content/uploads/2017/08/Dragon-Ball-Super-Goku-625x352.jpg",
       scores: [
         "5",
         "5",
@@ -34,7 +34,7 @@ var friends = [
     },
     {
       name: "Itachi",
-      photo: "https://en.wikipedia.org/wiki/Butch_Cassidy#/media/File:Butch_Cassidy_with_bowler_hat.jpg",
+      photo: "https://vignette.wikia.nocookie.net/naruto-bleach/images/5/58/Itachi_Uchiha001.jpg/revision/latest/scale-to-width-down/270?cb=20101219183908",
       scores: [
         "2",
         "2",
@@ -50,7 +50,7 @@ var friends = [
     },
     {
       name: "Hisoka",
-      photo: "https://en.wikipedia.org/wiki/Sundance_Kid#/media/File:Sundance_Kid_and_wife-clean.jpg",
+      photo: "https://i.ytimg.com/vi/hm-mjjc1LoY/maxresdefault.jpg",
       scores: [
         "5",
         "2",
@@ -66,7 +66,7 @@ var friends = [
     },
     {
       name: "Gintoki",
-      photo: "https://en.wikipedia.org/wiki/Frodo_Baggins#/media/File:Elijah_Wood_as_Frodo_Baggins.png",
+      photo: "https://myanimelist.cdn-dena.com/images/characters/15/241479.jpg",
       scores: [
         "4",
         "4",
@@ -81,8 +81,8 @@ var friends = [
       ]
     },
     {
-      name: "Siatama",
-      photo: "https://en.wikipedia.org/wiki/Samwise_Gamgee#/media/File:Sean_Astin_as_Samwise_Gamgee.png",
+      name: "Saitama",
+      photo: "http://cdn.shopify.com/s/files/1/1158/9490/products/C000009037-PAR-ZOOM_0236d34d-459c-4750-8edc-c4686f93d23d_800x.jpg?v=1524081408",
       scores: [
         "3",
         "4",
