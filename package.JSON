@@ -1,0 +1,28 @@
+{
+    "name": "teckniec",
+    "version": "1.0.0",
+    "description": "friend finder app",
+    "main": "server.js",
+    "dependencies": {
+      "body-parser": "^1.18.3",
+      "express": "^4.16.4",
+      "request": "^2.88.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "github.com/teckniec/FriendFinder"
+    },
+    "keywords": [
+      "full",
+      "stack",
+      "app"
+    ],
+    "author": "Anthony Miller",
+    "license": "ISC"
+  }
+  
+  
