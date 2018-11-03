@@ -1,28 +1,28 @@
 {
-    "name": "teckniec",
-    "version": "1.0.0",
-    "description": "friend finder app",
-    "main": "server.js",
-    "dependencies": {
-      "body-parser": "^1.18.3",
-      "express": "^4.16.4",
-      "request": "^2.88.0"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "github.com/teckniec/FriendFinder"
-    },
-    "keywords": [
-      "full",
-      "stack",
-      "app"
-    ],
-    "author": "Anthony Miller",
-    "license": "ISC"
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "matching application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teckniec/FriendFinder.git"
+  },
+  "author": "Anthony Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teckniec/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/teckniec/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node": "^11.0.0"
+  },
+  "engines": {
+    "node": "8.12.0"
   }
-  
-  
+}
