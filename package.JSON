@@ -18,11 +18,12 @@
   },
   "homepage": "https://github.com/teckniec/FriendFinder#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "node": "^11.0.0"
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "node": "11.0.0"
   },
   "engines": {
-    "node": "8.12.0"
+    "node": "11.0.0"
   }
 }
+
