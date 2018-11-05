@@ -1,10 +1,7 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "engines": {
-    "node": "11.0.0"
-  },
-  "description": "matching application",
+  "description": "app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,9 +18,7 @@
   },
   "homepage": "https://github.com/teckniec/FriendFinder#readme",
   "dependencies": {
-    "body-parser": "1.18.3",
-    "express": "4.16.4",
-    "node": "11.0.0"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
   }
 }
-
